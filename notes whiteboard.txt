@@ -1,0 +1,26 @@
+Need to add a ¿modal? 
+    open the modal with the moreInfo btn and add an (X) === (&times); in the top rght to close modal 
+    how to link the information to that buttons "person"? 
+    Header with "persons name"
+    create new UL (modalUl) to list the info out with new LI (modalLi) for the body.
+
+possible way to build modal. 
+                <div>
+                    <div>HEADER</div> 
+                        maybe a <span>&times;</span> in the header for the close button 
+                    <div>BODY</div>
+                </div>
+
+transition, maybe from the center of the screen it will expand to the set size and as it does the transperncy will change 
+to a more opaque setting. 
+
+
+
+How to style objects in JavaScript (example)
+    // li.style.width = "200px";
+        // li.style.margin = "auto"
+        // li.style.display = "flex"
+        // li.style.flexDirection = "column"
+        // li.style.justifyContent = "center"
+        // li.style.textAlign = "center"
+        // li.style.gap = "3px"
